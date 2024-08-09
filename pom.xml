@@ -11,7 +11,7 @@
 	<groupId>com.meeting.planner</groupId>
 	<artifactId>meeting-planner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>meeting-planner</name>
 	<description>API project to manage meeting rooms </description>
 	<url/>
