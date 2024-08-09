@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>meeting-planner</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API project to manage meeting rooms </description>
 	<url/>
 	<licenses>
 		<license/>
